@@ -40,6 +40,7 @@
 - **React Intl**: Internationalization library for providing multilingual support.
 
 <h2>Styling</h2>
+
 - **Ant Design**: A React UI library with a set of high-quality components.
 - **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
 - **Styled Components**: Utilized for styling React components with tagged template literals.
