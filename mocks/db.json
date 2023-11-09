@@ -1,0 +1,311 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "title": "Novel",
+      "author": "Robert Smith"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "title": "Atomic Adventures",
+      "author": "John Doe"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "title": "Wise Tales 1",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "title": "Wise Tales 2",
+      "author": "Michael Johnson"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "title": "Wise Tales 3",
+      "author": "Emily Williams"
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "title": "Wise Tales 4",
+      "author": "David Lee"
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "title": "Wise Tales 5",
+      "author": "Sarah Brown"
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "title": "Wise Tales 6",
+      "author": "Chris Martin"
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "title": "Medicine",
+      "author": "Lisa White"
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "title": "Novel",
+      "author": "Robert Smith"
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "title": "Strategic Success",
+      "author": "Alexandra Johnson"
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "title": "Corporate Innovations",
+      "author": "Jonathan White"
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "title": "Leadership Insights",
+      "author": "Rachel Turner"
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "title": "Global Business Strategies",
+      "author": "Daniel Miller"
+    },
+    {
+      "id": 17,
+      "categoryId": 2,
+      "title": "The Art of Negotiation",
+      "author": "Sophia Martinez"
+    },
+    {
+      "id": 18,
+      "categoryId": 1,
+      "title": "Brushstrokes of Expression",
+      "author": "Isabella Artiste"
+    },
+    {
+      "id": 19,
+      "categoryId": 1,
+      "title": "The Symphony of Colors",
+      "author": "Vincent Palette"
+    },
+    {
+      "id": 20,
+      "categoryId": 1,
+      "title": "Sculpting Emotions",
+      "author": "Michelangelo Sculptura"
+    },
+    {
+      "id": 21,
+      "categoryId": 1,
+      "title": "Photography Masterclass",
+      "author": "Eva Shutter"
+    },
+    {
+      "id": 22,
+      "categoryId": 1,
+      "title": "Dance of Creativity",
+      "author": "Carlos Choreographico"
+    },
+    {
+      "id": 23,
+      "categoryId": 1,
+      "title": "Poetry in Motion",
+      "author": "Serena Verses"
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "title": "The Art of Imagination",
+      "author": "Leon Canvas"
+    },
+    {
+      "id": 25,
+      "categoryId": 1,
+      "title": "Creative Harmony",
+      "author": "Olivia Melody"
+    },
+    {
+      "id": 26,
+      "categoryId": 1,
+      "title": "Abstract Realms",
+      "author": "Jackson Visionaire"
+    },
+    {
+      "id": 27,
+      "categoryId": 1,
+      "title": "Designing Dreams",
+      "author": "Aria Dreamweaver"
+    },
+    {
+      "id": 28,
+      "categoryId": 1,
+      "title": "The Palette of Possibilities",
+      "author": "Gabriel Artisan"
+    },
+    {
+      "id": 29,
+      "categoryId": 1,
+      "title": "Mosaic of Inspirations",
+      "author": "Sophia Craftwell"
+    },
+    {
+      "id": 30,
+      "categoryId": 3,
+      "title": "Anatomy Unveiled",
+      "author": "Dr. Olivia Gray"
+    },
+    {
+      "id": 31,
+      "categoryId": 3,
+      "title": "Healing Hands",
+      "author": "Dr. Ethan Harmon"
+    },
+    {
+      "id": 32,
+      "categoryId": 3,
+      "title": "Medical Marvels",
+      "author": "Dr. Isabella Wells"
+    },
+    {
+      "id": 33,
+      "categoryId": 3,
+      "title": "Surgical Symphony",
+      "author": "Dr. Benjamin Surgeon"
+    },
+    {
+      "id": 34,
+      "categoryId": 3,
+      "title": "Prescriptions of Hope",
+      "author": "Dr. Sophia Mendez"
+    },
+    {
+      "id": 35,
+      "categoryId": 3,
+      "title": "Innovations in Medicine",
+      "author": "Dr. Lucas Pioneer"
+    },
+    {
+      "id": 36,
+      "categoryId": 3,
+      "title": "Healthcare Horizons",
+      "author": "Dr. Ava Wellness"
+    },
+    {
+      "id": 37,
+      "categoryId": 3,
+      "title": "Mind-Body Medicine",
+      "author": "Dr. Noah Holistic"
+    },
+    {
+      "id": 38,
+      "categoryId": 3,
+      "title": "Pioneering Pediatrics",
+      "author": "Dr. Emily Childcare"
+    },
+    {
+      "id": 39,
+      "categoryId": 3,
+      "title": "Journey of a Surgeon",
+      "author": "Dr. James Scalpel"
+    },
+    {
+      "id": 40,
+      "categoryId": 3,
+      "title": "The Art of Healing",
+      "author": "Dr. Grace Therapist"
+    },
+    {
+      "id": 41,
+      "categoryId": 4,
+      "title": "Echoes of Eternity",
+      "author": "Isabel Novelist"
+    },
+    {
+      "id": 42,
+      "categoryId": 4,
+      "title": "Whispers in the Wind",
+      "author": "Jonathan Storyteller"
+    },
+    {
+      "id": 43,
+      "categoryId": 4,
+      "title": "Enigmatic Journeys",
+      "author": "Sophie Wordsmith"
+    },
+    {
+      "id": 44,
+      "categoryId": 4,
+      "title": "Chronicles of Serendipity",
+      "author": "Benjamin Narrator"
+    },
+    {
+      "id": 45,
+      "categoryId": 4,
+      "title": "Mysteries Unraveled",
+      "author": "Eleanor Dreamweaver"
+    },
+    {
+      "id": 46,
+      "categoryId": 4,
+      "title": "A Tapestry of Tales",
+      "author": "Lucas Prosemaster"
+    },
+    {
+      "id": 47,
+      "categoryId": 4,
+      "title": "Reveries of Reality",
+      "author": "Ava Imagination"
+    },
+    {
+      "id": 48,
+      "categoryId": 4,
+      "title": "The Enchanted Odyssey",
+      "author": "Noah Fantasyweaver"
+    },
+    {
+      "id": 49,
+      "categoryId": 4,
+      "title": "Dreams Beyond Dusk",
+      "author": "Emily Dreamspinner"
+    },
+    {
+      "id": 50,
+      "categoryId": 4,
+      "title": "The Ephemeral Escape",
+      "author": "James Novelpilot"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "მხატვრული"
+    },
+    {
+      "id": 2,
+      "title": "ბიზნეს ლიტერალურა"
+    },
+    {
+      "id": 3,
+      "title": "მედიცინა"
+    },
+    {
+      "id": 4,
+      "title": "რომანი"
+    }
+  ],
+  "users": [{ "id": 1, "username": "admin", "password": "1234" }]
+}

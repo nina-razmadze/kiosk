@@ -1,0 +1,32 @@
+{
+  "next": "შემდეგი",
+  "back": "უკან",
+  "borrow.book.title": "ითხოვე წიგნი",
+  "borrow.book.category": "კატეგორია",
+  "borrow.book.submit": "შესვლა",
+  "borrow.book.books": "წიგნები",
+  "borrow.book.login": "შესვლა",
+  "borrow.book.username": "სახელი",
+  "borrow.book.password": "პაროლი",
+
+  "password.required.message": "გთხოვთ შეიყვანოთ თქვენი პაროლი!",
+  "username.required.message": "გთხოვთ შეიყვანოთ თქვენი სახელი!",
+  "choose.book.table.book.author": "წიგნის ავტორი",
+
+  "borrow.book.choose.category": "აირჩიე კატეგორია",
+  "borrow.book.choose.medicine": "მედიცინა",
+  "borrow.book.choose.novel": "რომანი",
+  "borrow.book.choose.artistic": "მხატვრული",
+  "borrow.book.choose.business": "ბიზნეს ლიტერატურა",
+  "borrow.book": "გილოცავ",
+  "borrow.book.description": "შენ წარმატებით აიღე წიგნი",
+
+  "return.book.title": "დააბრუნე წიგნი",
+  "return.book.login": "შესვლა",
+  "return.book.choose.book": "აირჩიე წიგნი",
+  "return.book.submit": "შესვლა",
+  "go.to.main": "დაბრუნდი მთავარ გვერდზე",
+  "return.book": "გილოცავ",
+  "return.book.description": "შენ წარმატებით დააბრუნე წიგნი",
+  "choose.book.table.book.title": "წიგნის სახელი"
+}

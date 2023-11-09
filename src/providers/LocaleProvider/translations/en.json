@@ -1,0 +1,32 @@
+{
+  "next": "Next",
+  "back": "Back",
+  "borrow.book.title": "Borrow Book",
+  "borrow.book.category": "Category",
+  "borrow.book.submit": "Login",
+  "borrow.book.books": "Books",
+  "borrow.book.login": "Login",
+  "borrow.book.username": "Username",
+  "borrow.book.password": "Password",
+  "password.required.message": "Please input your password!",
+  "username.required.message": "Please input your username!",
+
+  "choose.book.table.book.author": "The author of the book",
+  "borrow.book.choose.category": "Choose Category",
+  "borrow.book.choose.medicine": "Medicine",
+  "borrow.book.choose.novel": "Novel",
+  "borrow.book.choose.artistic": "Artistic",
+  "borrow.book.choose.business": "Business literature",
+  "borrow.book": "Congrats",
+  "borrow.book.description": "you have successfully received the book",
+
+  "return.book.title": "Return Book",
+  "return.book.choose.book": "Choose Book",
+  "return.book.login": "Login",
+  "return.book.submit": "Login",
+  "return.book": "Congrats",
+  "return.book.description": "You have successfully returned the book",
+
+  "go.to.main": "Return to main page",
+  "choose.book.table.book.title": "Book Title"
+}
