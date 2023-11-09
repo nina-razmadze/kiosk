@@ -9,13 +9,13 @@
 
 <h2>Installation</h2>
 
-1.Clone the repository to your local machine:
+<h2>1.Clone the repository to your local machine:</h2>
 <h3>git clone https://github.com/your-username/your-repo.git</h3>
 
-2.Navigate to the project directory:
+<h2>2.Navigate to the project directory:</h2>
 <h3>cd your-repo</h3>
 
-3.Install dependencies:
+<h2>3.Install dependencies:</h2>
 <h3>npm install</h3>
 
 <h1>Running the Project</h1>
