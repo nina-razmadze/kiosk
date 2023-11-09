@@ -7,5 +7,11 @@
 <h2>Prerequisites</h2>
 <p>Make sure you have Node.js and npm installed on your machine.</p>
 
+<h2>Installation</h2>
 
+1.Clone the repository to your local machine:
+<h2>git clone https://github.com/your-username/your-repo.git</h2>
+
+2.Navigate to the project directory:
+<h2>cd your-repo</h2>
 
