@@ -13,7 +13,7 @@
 <p>git clone https://github.com/nina-razmadze/kiosk.git</p>
 
 <h2>2.Navigate to the project directory:</h2>
-<p>cd Kiosk</p>
+<p>cd kiosk</p>
 
 <h2>3.Install dependencies:</h2>
 <p>npm install</p>
