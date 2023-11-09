@@ -32,9 +32,14 @@
 
 <h1>Technologies Used</h1>
 <h2>Frontend</h2>
-React: The core library for building user interfaces.
-React Query: A powerful library for managing and caching asynchronous data in React applications.
-Axios: A promise-based HTTP client for making requests to the fake backend.
-Context API: Used for managing global state across the application.
-React Intl: Internationalization library for providing multilingual support.
 
+- **React**: The core library for building user interfaces.
+- **React Query**: A powerful library for managing and caching asynchronous data in React applications.
+- **Axios**: A promise-based HTTP client for making requests to the fake backend.
+- **Context API**: Used for managing global state across the application.
+- **React Intl**: Internationalization library for providing multilingual support.
+
+<h2>Styling</h2>
+- **Ant Design**: A React UI library with a set of high-quality components.
+- **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
+- **Styled Components**: Utilized for styling React components with tagged template literals.
