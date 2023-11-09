@@ -10,8 +10,16 @@
 <h2>Installation</h2>
 
 1.Clone the repository to your local machine:
-<h2>git clone https://github.com/your-username/your-repo.git</h2>
+<h3>git clone https://github.com/your-username/your-repo.git</h3>
 
 2.Navigate to the project directory:
-<h2>cd your-repo</h2>
+<h3>cd your-repo</h3>
+
+3.Install dependencies:
+<h3>npm install</h3>
+
+<h1>Running the Project</h1>
+<h2>Fake Backend with Json Server</h2>
+<p>To simulate a backend environment for development purposes, I use Json Server. To start the fake backend, run:</p>
+<h3>npm run mocks</h3>
 
