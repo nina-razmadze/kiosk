@@ -10,10 +10,10 @@
 <h2>Installation</h2>
 
 <h2>1.Clone the repository to your local machine:</h2>
-<p>git clone https://github.com/your-username/your-repo.git</p>
+<p>git clone https://github.com/nina-razmadze/kiosk.git</p>
 
 <h2>2.Navigate to the project directory:</h2>
-<p>cd your-repo</p>
+<p>cd Kiosk</p>
 
 <h2>3.Install dependencies:</h2>
 <p>npm install</p>
